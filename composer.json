@@ -1,6 +1,6 @@
 {
 
-  "name": "study/hello-composer",
+  "name": "sh_test/hello-composer",
 
   "description": "Hello, Composer!",
 
@@ -18,9 +18,9 @@
 
     {
 
-      "name": "study",
+      "name": "sh_test",
 
-      "email": "study@hotmail.com"
+      "email": "sh_test@hotmail.com"
 
     }
 
@@ -32,7 +32,7 @@
 
     "psr-4": {
 
-      "study\\": "src/"
+      "sh_test\\": "src/"
 
     }
 

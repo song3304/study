@@ -1,5 +1,5 @@
 <?php
-namespace study;
+namespace sh_test;
 
 class HelloComposer
 {
