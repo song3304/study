@@ -1,41 +1,16 @@
 {
-
-  "name": "sh_test/hello-composer",
-
-  "description": "Hello, Composer!",
-
-  "type": "library",
-
-  "require": {
-
-    "php": ">=7.0"
-
-  },
-
-  "license": "MIT",
-
-  "authors": [
-
-    {
-
-      "name": "sh_test",
-
-      "email": "sh_test@hotmail.com"
-
-    }
-
-  ],
-
-  "minimum-stability": "stable",
-
-  "autoload": {
-
-    "psr-4": {
-
-      "sh_test\\": "src/"
-
-    }
-
-  }
-
+    "name": "sh_test/hello-composer",
+    "description": "Hello, Composer!",
+    "type": "library",
+    "require": {
+        "php": ">7.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "songhui",
+            "email": "284606700@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
 }
