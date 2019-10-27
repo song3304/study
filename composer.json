@@ -1,0 +1,41 @@
+{
+
+  "name": "study/hello-composer",
+
+  "description": "Hello, Composer!",
+
+  "type": "library",
+
+  "require": {
+
+    "php": ">=7.0"
+
+  },
+
+  "license": "MIT",
+
+  "authors": [
+
+    {
+
+      "name": "study",
+
+      "email": "study@hotmail.com"
+
+    }
+
+  ],
+
+  "minimum-stability": "stable",
+
+  "autoload": {
+
+    "psr-4": {
+
+      "study\\": "src/"
+
+    }
+
+  }
+
+}
