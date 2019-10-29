@@ -12,5 +12,10 @@
             "email": "284606700@qq.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+          "sh_test\\": "src/"
+        }
+      }
 }
